@@ -11,4 +11,6 @@ for k=1:3
         end
     end
 end
-plot(hash(3,:));
+%bar(hash(1,:));
+%hist(hash(1,:));
+plot(hash(1,:));
