@@ -1,0 +1,2 @@
+1. run kmeans_16D directly
+2. make training vectors available before running the program
